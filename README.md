@@ -59,4 +59,3 @@ See `backend/migrations/001_create_tables.sql` for full schema.
 - Real-time updates with Supabase subscriptions
 - More granular RBAC and Supabase policies
 - Production deployment (Vercel/Netlify + Fly.io/Render)
-
