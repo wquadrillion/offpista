@@ -53,10 +53,10 @@ See `backend/migrations/001_create_tables.sql` for full schema.
 ### Dev Note: What I'd build next if I had more time
 - User profile and password reset
 - Task comments and attachments
+- Advanced Filtering: Add more filtering options (by date, priority, tags).
+- Notifications: Implement email/notification reminders for due tasks.
+- Advanced Analytics: More detailed analytics and reporting features.
 - Real-time updates with Supabase subscriptions
 - More granular RBAC and Supabase policies
 - Production deployment (Vercel/Netlify + Fly.io/Render)
 
-### Deployment
-- Frontend: Deploy to Vercel, Netlify, or similar.
-- Backend: Deploy to Fly.io, Render, or similar. Set environment variables for production.
